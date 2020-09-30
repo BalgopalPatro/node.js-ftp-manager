@@ -1,5 +1,7 @@
 # Node.js FTP Manager
 #### A FTP manager webapp in Node.js,Express.js and ejs as a template library  
+[![Development](https://badgen.net/badge/license/APACHE2/blue)]()
+[![Development](https://img.shields.io/badge/status-development-red)]()  
 Steps :   
 1 fork the repo  
 2 clone to your system  
